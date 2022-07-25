@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FreeCounter.io/static/css/main.059e659d.css",
+    "main.js": "/FreeCounter.io/static/js/main.08a661c2.js",
+    "static/js/787.e458d2a5.chunk.js": "/FreeCounter.io/static/js/787.e458d2a5.chunk.js",
+    "static/media/FreeCodeCamp.png": "/FreeCounter.io/static/media/FreeCodeCamp.24e008e3eca383a1657a.png",
+    "static/media/logo.svg": "/FreeCounter.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FreeCounter.io/index.html",
+    "main.059e659d.css.map": "/FreeCounter.io/static/css/main.059e659d.css.map",
+    "main.08a661c2.js.map": "/FreeCounter.io/static/js/main.08a661c2.js.map",
+    "787.e458d2a5.chunk.js.map": "/FreeCounter.io/static/js/787.e458d2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.059e659d.css",
+    "static/js/main.08a661c2.js"
+  ]
+}
